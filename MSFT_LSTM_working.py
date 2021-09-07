@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 
 
 
-df = pd.read_csv('NSE-TATAGLOBAL11.csv')
+df = pd.read_csv('MSFT_1dim.csv')
 print(len(df))
 
 
